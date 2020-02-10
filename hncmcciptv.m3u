@@ -1,4 +1,19 @@
 #EXTM3U
+
+#EXTINF:-1 ,小学1
+http://hls.edu.stream3.hndt.com/now/5KfxLs9f/playlist.m3u8
+#EXTINF:-1 ,小学2
+http://hls.edu.stream3.hndt.com/now/zZumWbbT/playlist.m3u8
+#EXTINF:-1 ,小学3
+http://hls.edu.stream3.hndt.com/now/Pnd7Y1Ux/playlist.m3u8
+#EXTINF:-1 ,小学4
+http://hls.edu.stream3.hndt.com/now/xpQw1mi0/playlist.m3u8
+#EXTINF:-1 ,小学5
+http://hls.edu.stream3.hndt.com/now/aj4tvYWp/playlist.m3u8
+#EXTINF:-1 ,小学6
+http://hls.edu.stream3.hndt.com/now/i0sX5CSB/playlist.m3u8
+#EXTINF:-1 ,初一7
+http://hls.edu.stream3.hndt.com/now/R9PARmqT/playlist.m3u8
 #EXTINF:-1 ,一年级课程
 http://111.7.174.11/PLTV/88888888/224/3221226011/index.m3u8?icpid=88888888&servicetype=1
 #EXTINF:-1 ,二年级课程
